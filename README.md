@@ -2,7 +2,7 @@
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
 
-https://sonarcloud.io/api/project_badges/measure?project=Witsanum2543_automated-clean-code&metric=sqale_index
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Witsanum2543_automated-clean-code&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Witsanum2543_automated-clean-code)
 
 ## Setup Instruction
 ```
